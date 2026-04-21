@@ -14,6 +14,6 @@ This code was developed by the **Jung-Hoon Lee group at the Korea Institute of S
 
 If you use this modified code in your research, please cite the following papers:
 
-1. Goeminne, R. et al. "DFT-Quality Adsorption Simulations in Metal–Organic Frameworks Enabled by Machine Learning Potentials," *J. Chem. Theory Comput.* 2023, 19 (18), 6313–6325.
+1. "DFT-Quality Adsorption Simulations in Metal–Organic Frameworks Enabled by Machine Learning Potentials," *J. Chem. Theory Comput.* 2023, 19 (18), 6313–6325.
 
 2. "Unifying CO₂ Diffusion Mechanisms in Diamine-Functionalized Metal–Organic Frameworks via Quantum-Accurate Machine Learning Dynamics," *under review*.
