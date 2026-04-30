@@ -1,6 +1,6 @@
 ## About
 
-This code was developed by the **Jung-Hoon Lee group at the Korea Institute of Science and Technology (KIST)** for grand canonical Monte Carlo (GCMC) simulations based on machine learning potentials (MLP).
+This code was developed by the **Jung-Hoon Lee group at Korea Institute of Science and Technology (KIST)** for grand canonical Monte Carlo (GCMC) simulations based on machine learning potentials (MLP).
 
 - **Modified Framework**: This repository contains a modified implementation of the MLP-GCMC code originally developed by Goeminne et al. (*J. Chem. Theory Comput.* 2023, 19, 18, 6313–6325).
 
